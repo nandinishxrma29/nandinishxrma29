@@ -7,3 +7,5 @@
 nandinishxrma29/nandinishxrma29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+TOOLS KNOWN :-
+Python ,Matplotlib ,Numpy,seaborn,SQL,MS EXCEL.POWER BI
